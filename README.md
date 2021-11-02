@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmhuang0501&hide=contribs&count_private=true&show_icons=true&theme=algolia&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmhuang0501&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=algolia&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
