@@ -12,14 +12,27 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 **About me**
 
+<p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Send-email.svg" height="23">
+<a href="mailto:huaming.huang.tw@gmail.com">  
+  Send e-mail to me
+</a> &nbsp;
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" height="23">
 <a href="https://www.linkedin.com/in/huaminghuangtw/">
-  <img align="left" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />
-</a>&nbsp;
+  LinkedIn
+</a> &nbsp;
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="25">
 <a href="https://stackoverflow.com/users/10351382/hmhuang?tab=profile">
-  <img align="left" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />
-</a>
+  Stack Overflow
+</a> &nbsp;
+
+</p>
 
 ---
 
