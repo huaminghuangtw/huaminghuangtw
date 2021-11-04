@@ -12,6 +12,16 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**About me**
+
+<a href="https://www.linkedin.com/in/huaminghuangtw/">
+  <img align="left" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />
+</a>&nbsp;
+<a href="https://stackoverflow.com/users/10351382/hmhuang?tab=profile">
+  <img align="left" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />
+</a>
+
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmhuang0501&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=algolia&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
