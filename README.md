@@ -16,12 +16,12 @@
 **About me**
 
 <p>
-<img src="https://img.icons8.com/ios/22/000000/home--v2.png"/>
+<img src="https://img.icons8.com/fluency/22/000000/home.png"/>
 <a href="https://huaminghuangtw.github.io">  
   https://huaminghuangtw.github.io
 </a> &nbsp;
 
-<img src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/22/000000/external-email-multimedia-kiranshastry-lineal-kiranshastry-1.png"/>
+<img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/22/000000/external-email-advertising-kiranshastry-lineal-color-kiranshastry-7.png"/>
 <a href="mailto:huaming.huang.tw@gmail.com">  
   Send e-mail to me
 </a> &nbsp;
