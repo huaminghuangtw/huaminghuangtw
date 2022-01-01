@@ -15,21 +15,23 @@
 
 **About me**
 
-🏠 https://huaminghuangtw.github.io/
-
 <p>
-  
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Send-email.svg" height="23">
+<img src="https://img.icons8.com/ios/22/000000/home--v2.png"/>
+<a href="https://huaminghuangtw.github.io">  
+  https://huaminghuangtw.github.io
+</a> &nbsp;
+
+<img src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/22/000000/external-email-multimedia-kiranshastry-lineal-kiranshastry-1.png"/>
 <a href="mailto:huaming.huang.tw@gmail.com">  
   Send e-mail to me
 </a> &nbsp;
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" height="23">
+  
+<img src="https://img.icons8.com/fluency/22/000000/linkedin.png"/>
 <a href="https://www.linkedin.com/in/huaminghuangtw/">
   LinkedIn
 </a> &nbsp;
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="25">
+<img src="https://img.icons8.com/fluency/22/000000/stackoverflow.png"/>
 <a href="https://stackoverflow.com/users/10351382/hmhuang?tab=profile">
   Stack Overflow
 </a> &nbsp;
