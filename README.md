@@ -40,20 +40,20 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmhuang0501&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=algolia&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huaminghuangtw&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=algolia&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmhuang0501&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huaminghuangtw&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 #### Highlighted Repositories
 <a href="https://github.com/hmhuang0501/Strava-Tool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hmhuang0501&repo=Strava-Tool&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaminghuangtw&repo=Strava-Tool&theme=github_dark" />
 </a>
 <a href="https://github.com/hmhuang0501/Parallel-Sudoku-Solver">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hmhuang0501&repo=Parallel-Sudoku-Solver&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaminghuangtw&repo=Parallel-Sudoku-Solver&theme=github_dark" />
 </a>
 
 
