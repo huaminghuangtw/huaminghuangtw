@@ -15,28 +15,40 @@
 
 **About me**
 
-<p>
+🇹🇼👨‍💻📖🚴‍♂️☕🏃📷
 
-<img src="https://img.icons8.com/fluency/22/000000/home.png"/>
+<p>
+<ul>
+
+<li>
+<img src="https://img.icons8.com/fluency/20/000000/home.png"/>
 <a href="https://huaminghuangtw.github.io">  
   https://huaminghuangtw.github.io
 </a> &nbsp;
+</li>
 
-<img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/22/000000/external-email-advertising-kiranshastry-lineal-color-kiranshastry-7.png"/>
+<li>
+<img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/20/000000/external-email-advertising-kiranshastry-lineal-color-kiranshastry-7.png"/>
 <a href="mailto:huaming.huang.tw@gmail.com">  
   Send e-mail to me
 </a> &nbsp;
-  
-<img src="https://img.icons8.com/fluency/22/000000/linkedin.png"/>
+</li>
+
+<li>
+<img src="https://img.icons8.com/fluency/20/000000/linkedin.png"/>
 <a href="https://www.linkedin.com/in/huaminghuangtw/">
   LinkedIn
 </a> &nbsp;
+</li>
 
-<img src="https://img.icons8.com/fluency/22/000000/stackoverflow.png"/>
+<li>
+<img src="https://img.icons8.com/fluency/20/000000/stackoverflow.png"/>
 <a href="https://stackoverflow.com/users/10351382/hmhuang?tab=profile">
   Stack Overflow
 </a> &nbsp;
+</li>
 
+</ul>
 </p>
 
 ---
