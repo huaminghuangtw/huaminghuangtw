@@ -17,7 +17,6 @@
 
 🇹🇼👨‍💻📖🚴‍♂️☕🏃📷
 
-<p>
 <ul>
 
 <li>
@@ -48,8 +47,15 @@
 </a> &nbsp;
 </li>
 
+<li>
+<img src="https://img.icons8.com/stickers/20/000000/ask-question.png"/>
+Ask me about anything
+<a href="https://stackoverflow.com/users/10351382/hmhuang?tab=profile">
+  here
+</a> &nbsp;
+</li>
+  
 </ul>
-</p>
 
 ---
 
