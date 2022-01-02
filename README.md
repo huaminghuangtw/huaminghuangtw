@@ -50,7 +50,7 @@
 <li>
 <img src="https://img.icons8.com/stickers/20/000000/ask-question.png"/>
 Ask me about anything
-<a href="https://stackoverflow.com/users/10351382/hmhuang?tab=profile">
+<a href="https://github.com/huaminghuangtw/huaminghuangtw/issues">
   here
 </a> &nbsp;
 </li>
