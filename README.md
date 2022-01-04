@@ -122,10 +122,7 @@ Hi!, I'm <a href="https://www.linkedin.com/in/huaminghuangtw">Hua-Ming Huang </a
 </a>
 </p>
 
-
-<br>
-<br>
-
+---
 
 <p align="right">
     <img src="https://komarev.com/ghpvc/?username=huaminghuangtw&style=flat&color=green&label=PROFILE+VIEWS"/>
