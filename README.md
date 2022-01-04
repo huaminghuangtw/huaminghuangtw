@@ -23,10 +23,14 @@ Hi!, I'm <a href="https://www.linkedin.com/in/huaminghuangtw">Hua-Ming Huang </a
 	<a href="https://www.linkedin.com/in/huaminghuangtw">
 		<img src="header.svg">
 	</a>
+	<br>
 </div>
 
-<ul>
+<br>
+<br>
 
+<ul>
+	
 <li>
 🇹🇼👨‍💻📖🚴‍♂️☕🏃📷
 </li>
@@ -51,8 +55,10 @@ Hi!, I'm <a href="https://www.linkedin.com/in/huaminghuangtw">Hua-Ming Huang </a
   Ask me about anything
 </a> &nbsp;
 </li>
-  
+
 </ul>
+
+<br>
 
 <p align="left">
 <a href="https://github.com/huaminghuangtw"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
