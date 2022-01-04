@@ -13,11 +13,17 @@
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=huaminghuangtw&style=flat&color=green&label=PROFILE+VIEWS)
-
+<!--
 <h2 align="left">
 Hi!, I'm <a href="https://www.linkedin.com/in/huaminghuangtw">Hua-Ming Huang </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">
 </h2>
+-->
+
+<div align="left">
+	<a href="https://www.linkedin.com/in/huaminghuangtw">
+		<img src="header.svg">
+	</a>
+</div>
 
 <ul>
 
@@ -67,7 +73,7 @@ Hi!, I'm <a href="https://www.linkedin.com/in/huaminghuangtw">Hua-Ming Huang </a
 
 ---
 
-### Highlighted Repositories
+### 🌟 Highlighted Repositories
 <a href="https://github.com/hmhuang0501/Strava-Tool">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaminghuangtw&repo=Strava-Tool&theme=github_dark" />
 </a>
@@ -77,7 +83,7 @@ Hi!, I'm <a href="https://www.linkedin.com/in/huaminghuangtw">Hua-Ming Huang </a
 
 ---
 
-### Tools & Skills
+### ⚙️ Tools & Skills
 <p align="left">
 <a href="#">
 <img alt="Matlab" src="https://img.shields.io/badge/Matlab-006dd8.svg?&style=for-the-badge&logoColor=white"/>
@@ -108,4 +114,13 @@ Hi!, I'm <a href="https://www.linkedin.com/in/huaminghuangtw">Hua-Ming Huang </a
 <img alt="Editor Config" src="https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000"/>
 <img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
 </a>
+</p>
+
+
+<br>
+<br>
+
+
+<p align="right">
+    <img src="https://komarev.com/ghpvc/?username=huaminghuangtw&style=flat&color=green&label=PROFILE+VIEWS"/>
 </p>
