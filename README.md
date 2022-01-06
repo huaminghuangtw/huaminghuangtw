@@ -81,10 +81,10 @@ Hi!, I'm <a href="https://www.linkedin.com/in/huaminghuangtw">Hua-Ming Huang </a
 
 ### 🌟 Highlighted Repositories
 <a href="https://github.com/hmhuang0501/Strava-Tool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaminghuangtw&repo=Strava-Tool&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaminghuangtw&repo=Strava-Tool&theme=github_dark"/>
 </a>
 <a href="https://github.com/hmhuang0501/Parallel-Sudoku-Solver">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaminghuangtw&repo=Parallel-Sudoku-Solver&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaminghuangtw&repo=Parallel-Sudoku-Solver&theme=github_dark"/>
 </a>
 
 ---
@@ -92,7 +92,7 @@ Hi!, I'm <a href="https://www.linkedin.com/in/huaminghuangtw">Hua-Ming Huang </a
 ### ⚙️ Tools & Skills
 <p align="left">
 <a href="#">
-<img alt="Matlab" src="https://img.shields.io/badge/Matlab-006dd8.svg?&style=for-the-badge&logoColor=white"/>
+<img alt="MATLAB" src="https://img.shields.io/badge/Matlab-006dd8.svg?&style=for-the-badge&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
 <img alt="Conda" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
@@ -110,8 +110,8 @@ Hi!, I'm <a href="https://www.linkedin.com/in/huaminghuangtw">Hua-Ming Huang </a
 <img alt="Windows" src="https://img.shields.io/badge/Windows-00A4EF?style=for-the-badge&logo=windows&logoColor=white"/>
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img alt="Powershell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white"/>
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-acacac?style=for-the-badge&logo=markdown&logoColor=black"/>
 <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img alt="Markdown" src="https://img.shields.io/badge/Markdown-acacac?style=for-the-badge&logo=markdown&logoColor=black"/>
 <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/>
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
