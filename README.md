@@ -86,6 +86,9 @@ About me: 🇹🇼👨‍💻📖🚴‍♂️☕🏃📷
 <a href="https://github.com/hmhuang0501/Parallel-Sudoku-Solver">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaminghuangtw&repo=Parallel-Sudoku-Solver&theme=github_dark"/>
 </a>
+<a href="https://github.com/hmhuang0501/Web-Sudoku-Puzzle-Game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaminghuangtw&repo=Web-Sudoku-Puzzle-Game&theme=github_dark"/>
+</a>
 
 ---
 
