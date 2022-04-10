@@ -32,7 +32,7 @@ Hi!, I'm <a href="https://www.linkedin.com/in/huaminghuangtw">Hua-Ming Huang </a
 <ul>
 	
 <li>
-About me: 🇹🇼👨‍💻📖🚴‍♂️☕🏃📷
+About me: 🇹🇼👨‍💻📖🛠️🚴‍♂️🏃☕📷🥑
 </li>
   
 <li>
@@ -69,9 +69,15 @@ About me: 🇹🇼👨‍💻📖🚴‍♂️☕🏃📷
 <a href="https://www.strava.com/athletes/huaminghuang"><img src="https://img.shields.io/badge/Strava-fc4c02?style=for-the-badge&logo=strava&logoColor=white"/></a>
 </p>
 
+<!--
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huaminghuangtw&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=algolia&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=huaminghuangtw&theme=onedark&title=Stars,Commits,Repositories,Followers&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -114,9 +120,11 @@ About me: 🇹🇼👨‍💻📖🚴‍♂️☕🏃📷
 <img alt="Windows" src="https://img.shields.io/badge/Windows-00A4EF?style=for-the-badge&logo=windows&logoColor=white"/>
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img alt="Powershell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white"/>
+<img alt="WindowsTerminal" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"/>	
 <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-acacac?style=for-the-badge&logo=markdown&logoColor=black"/>
 <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/>
+<img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"/>
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 <img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
