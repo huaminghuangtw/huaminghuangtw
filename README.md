@@ -72,12 +72,12 @@ About me: 🇹🇼👨‍💻📖🛠️🚴🏾🏃🏾☕📷🥐🥑
 <!--
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huaminghuangtw&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=algolia&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huaminghuangtw&count_private=true&show_icons=true&theme=algolia&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=huaminghuangtw&theme=onedark&title=Stars,Commits,Repositories,Issues,Followers,Pullrequest&show_icons=true&count_private=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=huaminghuangtw&theme=onedark&title=Stars,Commits,Repositories,Issues,Followers,PullRequest&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -86,13 +86,13 @@ About me: 🇹🇼👨‍💻📖🛠️🚴🏾🏃🏾☕📷🥐🥑
 ---
 
 ### 🌟 Highlighted Repositories
-<a href="https://github.com/hmhuang0501/Strava-Tool">
+<a href="https://github.com/huaminghuangtw/Strava-Tool">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaminghuangtw&repo=Strava-Tool&theme=github_dark"/>
 </a>
-<a href="https://github.com/hmhuang0501/Parallel-Sudoku-Solver">
+<a href="https://github.com/huaminghuangtw/Parallel-Sudoku-Solver">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaminghuangtw&repo=Parallel-Sudoku-Solver&theme=github_dark"/>
 </a>
-<a href="https://github.com/hmhuang0501/Web-Sudoku-Puzzle-Game">
+<a href="https://github.com/huaminghuangtw/Web-Sudoku-Puzzle-Game">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaminghuangtw&repo=Web-Sudoku-Puzzle-Game&theme=github_dark"/>
 </a>
 
