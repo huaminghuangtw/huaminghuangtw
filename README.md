@@ -1,5 +1,5 @@
 <!--
-**hmhuang0501/hmhuang0501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**huaminghuangtw/huaminghuangtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 **About me**
 
@@ -77,7 +77,7 @@ About me: 🇹🇼👨‍💻📖🛠️🚴🏾🏃🏾☕📷🥐🥑
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=huaminghuangtw&theme=onedark&title=Stars,Commits,Repositories,Issues,Followers,Contribs&show_icons=true&count_private=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=huaminghuangtw&theme=onedark&title=Stars,Commits,Repositories,Issues,Followers,Pullrequest&show_icons=true&count_private=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
