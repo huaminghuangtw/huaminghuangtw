@@ -47,13 +47,6 @@ jobs:
             dist/github-snake.svg?palette=github&color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
             dist/github-snake-dark.svg?palette=github-dark&color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
       -
-        name: Push code changes to GitHub
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true
-      -
         name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
         with:
