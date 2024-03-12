@@ -28,7 +28,7 @@ jobs:
           #plugin_stars: yes
           #config_order: base.header, isocalendar, languages, stars
           
-          config_display: columns
+          #config_display: columns
           config_timezone: Europe/Berlin
           
           plugin_followup: yes
