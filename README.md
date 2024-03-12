@@ -77,6 +77,16 @@ About me: 🇹🇼👨‍💻📖🛠️🚴🏾🏃🏾☕📷🥐🥑
 
 ---
 
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huaminghuangtw/huaminghuangtw/output/snake-animation-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huaminghuangtw/huaminghuangtw/output/snake-animation.svg">
+  <img alt="snake-animation" src="https://raw.githubusercontent.com/huaminghuangtw/huaminghuangtw/output/snake-animation.svg">
+</picture>
+</p>
+
+---
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=huaminghuangtw&theme=onedark&title=Stars,Commits,Repositories,Issues,Followers,PullRequest&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
@@ -100,15 +110,7 @@ About me: 🇹🇼👨‍💻📖🛠️🚴🏾🏃🏾☕📷🥐🥑
 
 ### 📊 Fun GitHub stats
 
-![GitHub-Metrics](https://raw.githubusercontent.com/huaminghuangtw/huaminghuangtw/output/github-metrics.svg)
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huaminghuangtw/huaminghuangtw/output/snake-animation-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huaminghuangtw/huaminghuangtw/output/snake-animation.svg">
-  <img alt="snake-animation" src="https://raw.githubusercontent.com/huaminghuangtw/huaminghuangtw/output/snake-animation.svg">
-</picture>
-</p>
+![GitHub-Metrics](https://raw.githubusercontent.com/huaminghuangtw/huaminghuangtw/output/github-metrics.svg?)
 
 ---
 
