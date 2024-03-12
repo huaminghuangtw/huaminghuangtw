@@ -10,9 +10,13 @@ on:
 
 # The sequence of job runs in this workflow
 jobs:
-  job1:
+  snake-animation:
     runs-on: ubuntu-latest
     timeout-minutes: 5
+    environment: 
+      name: production
+    permissions:
+      contents: write
     # Steps representing a sequence of tasks that will be executed as part of this job
     steps:
       -
