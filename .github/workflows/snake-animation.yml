@@ -5,24 +5,14 @@ on:
   schedule:
     # Execute every 24 hours
     - cron: "* */24 * * *"
-
   # This command allows us to run the GitHub Action manually from the "Actions" tab at any time
   workflow_dispatch:
 
-  # Run every push on the main branch
-  push:
-    branches:
-      - main
-    
 # The sequence of job runs in this workflow
 jobs:
-  
   job1:
-  
     runs-on: ubuntu-latest
-      
     timeout-minutes: 5
-    
     # Steps representing a sequence of tasks that will be executed as part of this job
     steps:
       -
@@ -34,9 +24,10 @@ jobs:
             dist/snake-animation.svg
             dist/snake-animation-dark.svg?palette=github-dark&color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
       -
-        name: Deploy to GitHub Pages
+        name: Deploy to GitHub Pages or Push the content of <build_dir> to a branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
+          # The content will be available at https://raw.githubusercontent.com/<github_username>/<repository>/<target_branch>/<file> , or as GitHub Pages
           target_branch: output
           build_dir: dist
         env:
