@@ -104,12 +104,6 @@ About me: 🇹🇼👨‍💻📖🛠️🚴🏾🏃🏾☕📷🥐🥑
 
 <p align="center">
 <picture>
-  <img alt="github-metrics" src="https://raw.githubusercontent.com/huaminghuangtw/huaminghuangtw/output/github-metrics.svg">
-</picture>
-</p>
-
-<p align="center">
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huaminghuangtw/huaminghuangtw/output/snake-animation-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huaminghuangtw/huaminghuangtw/output/snake-animation.svg">
   <img alt="snake-animation" src="https://raw.githubusercontent.com/huaminghuangtw/huaminghuangtw/output/snake-animation.svg">
