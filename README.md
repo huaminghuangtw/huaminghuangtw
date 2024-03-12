@@ -85,6 +85,16 @@ About me: 🇹🇼👨‍💻📖🛠️🚴🏾🏃🏾☕📷🥐🥑
 
 ---
 
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huaminghuangtw/huaminghuangtw/output/snake-animation-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huaminghuangtw/huaminghuangtw/output/snake-animation.svg">
+  <img alt="snake-animation" src="https://raw.githubusercontent.com/huaminghuangtw/huaminghuangtw/output/snake-animation.svg">
+</picture>
+</p>
+
+---
+
 ### 🌟 Highlighted Repositories
 <a href="https://github.com/huaminghuangtw/Strava-Tool">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaminghuangtw&repo=Strava-Tool&theme=github_dark"/>
