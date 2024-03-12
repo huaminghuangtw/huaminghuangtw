@@ -106,6 +106,8 @@ About me: 🇹🇼👨‍💻📖🛠️🚴🏾🏃🏾☕📷🥐🥑
 </picture>
 </p>
 
+---
+
 <p align="center">
 <picture>
   <img alt="github-metrics" src="https://raw.githubusercontent.com/huaminghuangtw/huaminghuangtw/output/github-metrics.svg">
