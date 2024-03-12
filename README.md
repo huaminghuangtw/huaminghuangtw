@@ -114,6 +114,14 @@ About me: 🇹🇼👨‍💻📖🛠️🚴🏾🏃🏾☕📷🥐🥑
 </picture>
 </p>
 
+<p align="center">
+<picture>
+  <img alt="github-metrics" src="https://github.com/huaminghuangtw/huaminghuangtw/blob/output/github-metrics.svg">
+</picture>
+</p>
+
+![GitHub-Metrics](https://raw.githubusercontent.com/huaminghuangtw/huaminghuangtw/output/github-metrics.svg)
+
 ---
 
 ### ⚙️ Tools & Skills
