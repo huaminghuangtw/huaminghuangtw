@@ -8,6 +8,11 @@ on:
 
   # This command allows us to run the GitHub Action manually from the "Actions" tab at any time
   workflow_dispatch:
+
+  # Run every push on the main branch
+  push:
+    branches:
+      - main
     
 # The sequence of job runs in this workflow
 jobs:
@@ -27,7 +32,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake-animation.svg
-            dist/snake-animation-dark.svg?palette=github-dark
+            dist/snake-animation-dark.svg?palette=github-dark&color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
       -
         name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
