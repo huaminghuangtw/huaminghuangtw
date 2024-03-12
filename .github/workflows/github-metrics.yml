@@ -25,7 +25,6 @@ jobs:
           
           base: header, activity, repositories
 
-          config_display: columns
           config_timezone: Europe/Berlin
           
           plugin_isocalendar: yes
