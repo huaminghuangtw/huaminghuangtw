@@ -98,6 +98,16 @@ About me: 🇹🇼👨‍💻📖🛠️🚴🏾🏃🏾☕📷🥐🥑
 
 ---
 
+### 📊 Fun GitHub stats
+
+![GitHub-Metrics](https://raw.githubusercontent.com/huaminghuangtw/huaminghuangtw/output/github-metrics.svg)
+
+<p align="center">
+<picture>
+  <img alt="github-metrics" src="https://raw.githubusercontent.com/huaminghuangtw/huaminghuangtw/output/github-metrics.svg">
+</picture>
+</p>
+
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huaminghuangtw/huaminghuangtw/output/snake-animation-dark.svg">
@@ -105,11 +115,6 @@ About me: 🇹🇼👨‍💻📖🛠️🚴🏾🏃🏾☕📷🥐🥑
   <img alt="snake-animation" src="https://raw.githubusercontent.com/huaminghuangtw/huaminghuangtw/output/snake-animation.svg">
 </picture>
 </p>
-
----
-
-### 📊 Fun GitHub stats
-![GitHub-Metrics](https://raw.githubusercontent.com/huaminghuangtw/huaminghuangtw/output/github-metrics.svg)
 
 ---
 
