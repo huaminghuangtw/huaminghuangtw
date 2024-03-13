@@ -2,9 +2,8 @@
 name: Generate Snake Animation
 
 on:
-  schedule:
-    # Execute every 24 hours
-    - cron: "* */24 * * *"
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
   # This command allows us to run the GitHub Action manually from the "Actions" tab at any time
   workflow_dispatch:
 
