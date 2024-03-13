@@ -6,6 +6,7 @@ on:
   schedule: [{cron: "0 0 * * *"}]
   # This command allows us to run the GitHub Action manually from the "Actions" tab at any time
   workflow_dispatch:
+  push: {branches: [main, master]}
 
 # The sequence of job runs in this workflow
 jobs:
