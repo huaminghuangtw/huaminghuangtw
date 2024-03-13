@@ -13,33 +13,24 @@
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="left">
+  Hi! I'm <a href="https://www.linkedin.com/in/huaminghuangtw">Hua-Ming Huang </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">
+</h1>
+
 <!--
-<h2 align="left">
-Hi!, I'm <a href="https://www.linkedin.com/in/huaminghuangtw">Hua-Ming Huang </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">
-</h2>
+<div align="left">
+  <a href="https://www.linkedin.com/in/huaminghuangtw">
+    <img src="header.svg">
+  </a>
+</div>
 -->
 
-<div align="left">
-	<a href="https://www.linkedin.com/in/huaminghuangtw">
-		<img src="header.svg">
-	</a>
-	<br>
-</div>
-
-<br>
-<br>
-
-<ul>
-	
 <li>
 About me: 🇹🇼👨‍💻📖🛠️🚴🏾🏃🏾☕📷🥐🥑
 </li>
   
 <li>
-<img src="https://img.icons8.com/fluency/20/000000/home.png"/>
-<a href="https://huaminghuangtw.github.io">  
-  https://huaminghuangtw.github.io
-</a> &nbsp;
+  🕸️ <a href="https://huaminghuangtw.github.io/">Personal Blog</a>
 </li>
 
 <li>
@@ -56,9 +47,9 @@ About me: 🇹🇼👨‍💻📖🛠️🚴🏾🏃🏾☕📷🥐🥑
 </a> &nbsp;
 </li>
 
-</ul>
-
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Experienced+Software+Developer;Obsessed+with+writing+effective+programs;Coding+for+personal+automation+and+lifestyle+optimization;Always+learning+new+things;Blogrammer,+generally+nerdy+and+geeky+:)&font=Fira+Code&center=true&width=780&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG"/>
+</p>
 
 <p align="left">
 <a href="https://github.com/huaminghuangtw"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
