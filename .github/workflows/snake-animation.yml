@@ -33,6 +33,8 @@ jobs:
           # The content will be available at https://raw.githubusercontent.com/<github_username>/<repository>/<target_branch>/<file> , or as GitHub Pages
           target_branch: output
           build_dir: dist
+          author: Hua-Ming Huang <huaming.huang.tw@gmail.com>
+          committer: Hua-Ming Huang <huaming.huang.tw@gmail.com>
           commit_message: Update snake animation
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
