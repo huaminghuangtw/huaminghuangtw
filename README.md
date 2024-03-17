@@ -17,11 +17,13 @@
   Hi! I'm <a href="https://www.linkedin.com/in/huaminghuangtw">Hua-Ming Huang </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">
 </h1>
 
+<!--
 <div align="left">
   <a href="https://www.linkedin.com/in/huaminghuangtw">
     <img src="https://raw.githubusercontent.com/huaminghuangtw/huaminghuangtw/output/header.svg">
   </a>
 </div>
+-->
 
 <li>
 About me: 🇹🇼👨‍💻📖🛠️🚴🏾🏃🏾☕📷🥐🥑
