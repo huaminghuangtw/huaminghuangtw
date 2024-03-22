@@ -19,8 +19,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: ${{ github.repository_owner }}
           template: classic
-          output_action: commit
-          committer_branch: github-metrics
           
           base: header, activity, repositories
 
