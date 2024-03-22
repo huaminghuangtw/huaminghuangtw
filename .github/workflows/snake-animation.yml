@@ -31,7 +31,7 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v4
         with:
           # The content will be available at https://raw.githubusercontent.com/<github_username>/<repository>/<target_branch>/<file> , or as GitHub Pages
-          target_branch: output
+          target_branch: snake-animation
           build_dir: dist
           author: Hua-Ming Huang <huaming.huang.tw@gmail.com>
           committer: Hua-Ming Huang <huaming.huang.tw@gmail.com>
