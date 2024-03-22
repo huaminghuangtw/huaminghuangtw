@@ -20,7 +20,7 @@ jobs:
           user: ${{ github.repository_owner }}
           template: classic
           output_action: commit
-          committer_branch: output
+          committer_branch: github-metrics
           
           base: header, activity, repositories
 
