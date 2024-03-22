@@ -23,16 +23,13 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake-animation.svg
-            dist/snake-animation-dark.svg?palette=github-dark
+            snake-animation.svg
+            snake-animation-dark.svg?palette=github-dark
       -
         # https://github.com/crazy-max/ghaction-github-pages/tree/dev?tab=readme-ov-file#usage
         name: Deploy to GitHub Pages or Push the content of <build_dir> to <target_branch>
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          # The content will be available at https://raw.githubusercontent.com/<github_username>/<repository>/<target_branch>/<file> , or as GitHub Pages
-          target_branch: snake-animation
-          build_dir: dist
           author: Hua-Ming Huang <huaming.huang.tw@gmail.com>
           committer: Hua-Ming Huang <huaming.huang.tw@gmail.com>
           commit_message: Update snake animation
