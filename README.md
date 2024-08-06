@@ -47,9 +47,11 @@ About me: 🇹🇼👨‍💻📖🛠️🚴🏾🏃🏾☕📷🥐🥑
 </a> &nbsp;
 </li>
 
+<!--
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Experienced+Software+Developer;Obsessed+with+writing+effective+programs;Coding+for+personal+automation+and+lifestyle+optimization;Always+learning+new+things;Blogrammer,+generally+nerdy+and+geeky+:)&font=Fira+Code&center=true&width=780&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG"/>
 </p>
+-->
 
 <p align="left">
 <a href="https://github.com/huaminghuangtw"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -99,47 +101,9 @@ About me: 🇹🇼👨‍💻📖🛠️🚴🏾🏃🏾☕📷🥐🥑
 
 ---
 
-### 📊 Fun GitHub stats
+### 📊 Fun GitHub Stats
 
 ![GitHub-Metrics](github-metrics.svg?)
-
----
-
-### ⚙️ Tools & Skills
-<p align="left">
-<a href="#">
-<img alt="MATLAB" src="https://img.shields.io/badge/Matlab-006dd8.svg?&style=for-the-badge&logoColor=white"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-<img alt="Conda" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
-<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-<img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img alt="C#" src="https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img alt="CMake" src="https://img.shields.io/badge/CMake-DC143C?style=for-the-badge&logo=cmake&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-<img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img alt="Windows" src="https://img.shields.io/badge/Windows-00A4EF?style=for-the-badge&logo=windows&logoColor=white"/>
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img alt="Powershell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white"/>
-<img alt="WindowsTerminal" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"/>	
-<img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-acacac?style=for-the-badge&logo=markdown&logoColor=black"/>
-<img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/>
-<img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"/>
-<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-<img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
-<img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
-<img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-0EAA00.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
-<img alt="Editor Config" src="https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000"/>
-<img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
-</a>
-</p>
 
 ---
 
