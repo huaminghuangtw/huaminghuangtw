@@ -42,6 +42,10 @@ TODO: Find a cleaner minimal-style social meida badges; Add Twitter & ORCID
 
 ---
 
+[![GitHub Profile Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huaminghuangtw&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 <p align="center">
   <a href="https://github.com/Platane/snk">
     <picture>
@@ -52,29 +56,12 @@ TODO: Find a cleaner minimal-style social meida badges; Add Twitter & ORCID
   </a>
 </p>
 
+<!--
 ---
+
 
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=huaminghuangtw&theme=onedark&title=Stars,Commits,Repositories,Issues,Followers,PullRequest&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-[![GitHub Profile Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huaminghuangtw&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 🌟 Highlighted Repos
-<a href="https://github.com/huaminghuangtw/Apple-Shortcuts-Gallery">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaminghuangtw&repo=Apple-Shortcuts-Gallery&theme=github_dark"/>
-</a>
-<a href="https://github.com/huaminghuangtw/Strava-Tool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaminghuangtw&repo=Strava-Tool&theme=github_dark"/>
-</a>
-<a href="https://github.com/huaminghuangtw/Parallel-Sudoku-Solver">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaminghuangtw&repo=Parallel-Sudoku-Solver&theme=github_dark"/>
-</a>
-<a href="https://github.com/huaminghuangtw/Web-Sudoku-Puzzle-Game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaminghuangtw&repo=Web-Sudoku-Puzzle-Game&theme=github_dark"/>
-</a>
+-->
 
 ---
 
